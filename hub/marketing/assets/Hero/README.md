@@ -1,0 +1,1 @@
+Dark hero stills (2400 x 1340) and loops from the Feedwrk Imagery Library. Every still keeps its upper half empty for words. Stills for cover, image and closing slides; loops only for video, webinars and screen presenting.

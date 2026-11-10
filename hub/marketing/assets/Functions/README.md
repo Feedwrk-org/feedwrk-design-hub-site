@@ -1,0 +1,1 @@
+One image per Feedwrk function from the Feedwrk Imagery Library, 2000 x 1116, every option in a light and a dark version. Names: <number>-<function>-<option>-<light|dark>.jpg. The first option per function is the best pick. Zones in Images on slides.

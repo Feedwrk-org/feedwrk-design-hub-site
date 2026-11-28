@@ -1,0 +1,1 @@
+The feedwrk wordmark in ink (#18181b) for light slides and in light ink (#f5f5f6) for dark slides, plus the mark. Copied from Feedwrk Landing, with a size added so they show everywhere. 26px tall in the slide footer, 30px on the cover. The light wordmark is invisible on a light tile and the ink one on a dark tile: that is expected. Never set the name in type.
